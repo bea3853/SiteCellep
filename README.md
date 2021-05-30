@@ -6,13 +6,14 @@ https://bootstrap3.bealves.repl.co
 
 
 #  Sobre o projeto
- Projeto de site realizado no Curso Estação Hack da CeLLep e Facebook.
- Projetos dos professores -  David Lorronda/Paulo Mariano/Ricardo Orrico/
+Site construido no Curso Estação Hack da CeLLep e Facebook.
+Ferramenta Bootstrap.
+Projetos dos professores -  David Lorronda/Paulo Mariano/Ricardo Orrico
   
   
 #  Tecnologias utilizadas
 
-##  Visualg
+## Bootstrap
 
 HTML - CSS - JS - BOOTSTRAP
 
