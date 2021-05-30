@@ -15,6 +15,10 @@ Projetos dos professores -  David Lorronda/Paulo Mariano/Ricardo Orrico
 
 ## Bootstrap
 
-HTML - CSS - JS - BOOTSTRAP
+HTML - CSS - JS
+
+Autor:
+
+Cellep Estação Hack/ Facebook. 
 
 
